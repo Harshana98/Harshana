@@ -11,5 +11,6 @@
     <string name="btn01">Cancel</string>
     <string name="btn02">Pay</string>
     <string name="msg01">Thank you for choosing our services!</string>
+    <string name="msg02">Total amount</string>
     <string name="btn03">Home</string>
 </resources>
